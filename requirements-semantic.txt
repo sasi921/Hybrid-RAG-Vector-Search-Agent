@@ -1,0 +1,2 @@
+# Optional real neural sentence embeddings (may download model weights).
+sentence-transformers>=3,<6
