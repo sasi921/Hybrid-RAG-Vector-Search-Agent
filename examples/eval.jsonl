@@ -1,0 +1,3 @@
+{"question":"How do Kubernetes deployments work with automated tests?","expected_source":"architecture.md"}
+{"question":"What are the security requirements for secrets?","expected_source":"security.txt"}
+{"question":"How does reciprocal rank fusion help retrieval?","expected_source":"retrieval.md"}
